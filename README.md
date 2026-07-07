@@ -139,7 +139,7 @@ Customer-Shopping-Behavior-Analysis/
 ## Dashboard Preview
 <h2>Dashboard Preview</h2>
 
-<img src="images/dashboard.png" alt="Power BI Dashboard" width="1000">
+<img src="dashboard.png" alt="Power BI Dashboard" width="1000">
 
 ```text
 PowerBI_Dashboard/
