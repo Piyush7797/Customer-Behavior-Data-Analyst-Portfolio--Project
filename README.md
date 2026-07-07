@@ -137,8 +137,9 @@ Customer-Shopping-Behavior-Analysis/
 ---
 
 ## Dashboard Preview
+<h2>Dashboard Preview</h2>
 
-> Add your Power BI dashboard screenshot here.
+<img src="images/"C:\Users\hp\Pictures\Screenshots\dashboard.png" alt="Power BI Dashboard" width="1000">
 
 ```text
 PowerBI_Dashboard/
